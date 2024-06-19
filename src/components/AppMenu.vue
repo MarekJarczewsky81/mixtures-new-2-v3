@@ -22,17 +22,17 @@ export default {
       items: [
         {
           label: 'Home',
-          icon: 'pi pi-home',
+          icon: 'pi pi-fw pi-home',
           to: 'Home'
         },
         {
           label: 'Mixin',
-          icon: 'pi pi-cog',
+          icon: 'pi pi-fw pi-filter',
           to: 'Mixin'
         },
         {
           label: 'About',
-          icon: 'pi pi-info-circle',
+          icon: 'pi pi-fw pi-info',
           to: 'About'
         }
       ]
